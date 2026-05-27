@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dixuan Wu (吴狄轩)"
-description              : 
+description              : ""
 repository               : "Dixuan-Wu/dixuan-wu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dixuan Wu"
   avatar           : "images/profile.png"
-  bio              : "undergraduate student,\\ School of Physics,\\ Peking University"
+  bio              : "undergraduate student<br>School of Physics<br>Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
