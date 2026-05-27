@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dixuan Wu"
-description              : "Personal homepage of Dixuan Wu"
+title                    : "Dixuan Wu (吴狄轩)"
+description              : 
 repository               : "Dixuan-Wu/dixuan-wu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dixuan Wu"
   avatar           : "images/profile.png"
-  bio              : "undergraduate student, School of Physics, Peking University"
+  bio              : "undergraduate student,\\ School of Physics,\\ Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
