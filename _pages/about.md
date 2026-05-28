@@ -21,7 +21,7 @@ My research interest includes free electron quantum optics.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2026 (Under Review)</div><img src='Coherent_Control_of_Three-Level_System_Using_Shaped_Free_Electrons_Fig.1.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Coherent Control of Three-Level System Using Shaped Free Electrons
