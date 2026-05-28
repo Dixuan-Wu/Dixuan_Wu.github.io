@@ -40,21 +40,19 @@ Physical Review Letters, 2026 (Under Review).
 - Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
 
 # 🎖 Honors and Awards
-- *2025–2026*<span style="margin-left: 1em;"></span>Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University. 
-- *2024–2025*<span style="margin-left: 1em;"></span>Award for Scientific Research, Peking University.
-- *2024–2025*<span style="margin-left: 1em;"></span>First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).
-- *2022–2023* \quad First Prize (Gold Medal), Final of the 39th Chinese Physics Olympiad.
-- *2022–2023* \quad First Prize, Hubei Division, Semi-final of the 39th Chinese Physics Olympiad (Provincial Team).
-- *2021–2022* \quad First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.
-- *2020–2021* \quad Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.
+- *2025–2026*<span style="margin-left: 2em;"></span>Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University. 
+- *2024–2025*<span style="margin-left: 2em;"></span>Award for Scientific Research, Peking University.
+- *2024–2025*<span style="margin-left: 2em;"></span>First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).
+- *2022–2023*<span style="margin-left: 2em;"></span>First Prize (Gold Medal), Final of the 39th Chinese Physics Olympiad.
+- *2022–2023*<span style="margin-left: 2em;"></span>First Prize, Hubei Division, Semi-final of the 39th Chinese Physics Olympiad (Provincial Team).
+- *2021–2022*<span style="margin-left: 2em;"></span>First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.
+- *2020–2021*<span style="margin-left: 2em;"></span>Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023–now*<span style="margin-left: 2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.
+- *2024–now*<span style="margin-left: 2em;"></span><strong>Undergraduate</strong>, Dual Degree Program in Economics, National School of Development, Peking University.
+- *2020–2023*<span style="margin-left: 2em;"></span><strong>Senior high school student</strong>, NO.1 Middle School Affiliated to Central China Normal University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Professional Activities
+- Oral presentation, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University, Beijing, 2026.
+- Oral presentation, the 15th National Symposium on the Front Issues in the Optics, Harbin, 2026.
