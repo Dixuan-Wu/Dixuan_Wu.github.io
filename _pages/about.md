@@ -40,9 +40,9 @@ Physical Review Letters, 2026 (Under Review).
 - Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
 
 # 🎖 Honors and Awards
-- *2025–2026* \quad Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University. 
-- *2024–2025* \quad Award for Scientific Research, Peking University.
-- *2024–2025* \quad First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).
+- *2025–2026*<span style="margin-left: 1em;"></span>Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University. 
+- *2024–2025*<span style="margin-left: 1em;"></span>Award for Scientific Research, Peking University.
+- *2024–2025*<span style="margin-left: 1em;"></span>First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).
 - *2022–2023* \quad First Prize (Gold Medal), Final of the 39th Chinese Physics Olympiad.
 - *2022–2023* \quad First Prize, Hubei Division, Semi-final of the 39th Chinese Physics Olympiad (Provincial Team).
 - *2021–2022* \quad First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.
