@@ -49,8 +49,8 @@ Physical Review Letters, 2026 (Under Review).
 - *2020–2021*<span style="margin-left: 2em;"></span>Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.
 
 # 📖 Educations
-- *2023–now*<span style="margin-left: 2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.
-- *2024–now*<span style="margin-left: 2em;"></span><strong>Undergraduate</strong>, Dual Degree Program in Economics, National School of Development, Peking University.
+- *2023–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.
+- *2024–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Dual Degree Program in Economics, National School of Development, Peking University.
 - *2020–2023*<span style="margin-left: 2em;"></span><strong>Senior high school student</strong>, NO.1 Middle School Affiliated to Central China Normal University.
 
 # 💬 Professional Activities
