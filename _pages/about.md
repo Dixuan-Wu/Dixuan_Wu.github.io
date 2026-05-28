@@ -26,18 +26,18 @@ My research interest includes free electron quantum optics.
 
 Coherent Control of Three-Level System Using Shaped Free Electrons.
 
-Physical Review Letters, 2026 (Under Review).
-
 <u><strong>Dixuan Wu</strong></u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
 
+<i>Physical Review Letters</i>, 2026 (Under Review).
+
 </div>
 </div>
 
-- Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
+- Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).
 
-- Quantum Simulation of Tunable Synthetic Lattices with Free Electrons. Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
+- Quantum Simulation of Tunable Synthetic Lattices with Free Electrons. Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).
 
-- Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
+- Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).
 
 # 🎖 Honors and Awards
 - *2025–2026*<span style="margin-left: 2em;"></span>Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University. 
