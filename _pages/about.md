@@ -24,9 +24,11 @@ My research interest includes free electron quantum optics.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coherent Control of Three-Level System Using Shaped Free Electrons](Under Review)
+Coherent Control of Three-Level System Using Shaped Free Electrons
 
-**Dixuan Wu***, Jing Li*, Yuhan Jiang, and Yunquan Liu
+Physical Review Letters 2026 (Under Review)
+
+**Dixuan Wu** $^*$, Jing Li $^*$, Yuhan Jiang, and Yunquan Liu $^\dagger$
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
