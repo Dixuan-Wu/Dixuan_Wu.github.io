@@ -21,21 +21,16 @@ My research interest includes free electron quantum optics.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2026 (Under Review)</div><img src='Coherent_Control_of_Three-Level_System_Using_Shaped_Free_Electrons_Fig.1.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2026 (Under Review)</div><img src='Coherent_Control_of_Three-Level_System_Using_Shaped_Free_Electrons_Fig.1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Coherent Control of Three-Level System Using Shaped Free Electrons
+Coherent Control of Three-Level System Using Shaped Free Electrons.
 
-Physical Review Letters 2026 (Under Review)
+Physical Review Letters, 2026 (Under Review).
 
-**Dixuan Wu**$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu$^\dagger$
+<u>**Dixuan Wu**<\u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u>**Dixuan Wu**<\u>, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
