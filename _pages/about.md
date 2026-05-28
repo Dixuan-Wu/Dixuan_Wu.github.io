@@ -28,7 +28,10 @@ Coherent Control of Three-Level System Using Shaped Free Electrons.
 
 Physical Review Letters, 2026 (Under Review).
 
-**Dixuan Wu**$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
+<u><strong>Dixuan Wu</strong></u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
+
+</div>
+</div>
 
 - Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, **Dixuan Wu**, and Yunquan Liu. Physical Review Letters, 2026 (Under Review).
 
