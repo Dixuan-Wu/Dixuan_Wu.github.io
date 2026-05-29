@@ -20,24 +20,16 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <style>
-  .lang-zh {
-    display: none;
-  }
-
-  html.lang-zh .lang-en {
+  html:not(.lang-zh) body .lang-zh {
     display: none !important;
   }
 
-  html.lang-zh .lang-zh {
-    display: inline !important;
-  }
-
-  html.lang-en .lang-en {
-    display: inline !important;
-  }
-
-  html.lang-en .lang-zh {
+  html.lang-zh body .lang-en {
     display: none !important;
+  }
+
+  html.lang-zh body .lang-zh {
+    display: inline !important;
   }
 
   .lang-toggle-link {
