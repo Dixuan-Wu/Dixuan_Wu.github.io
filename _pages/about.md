@@ -19,6 +19,16 @@ redirect_from:
 
 <span class="lang-en">My research interest includes free electron nanophotonics, quantum optics, photonic time crystal etc.</span><span class="lang-zh">我的研究兴趣包括自由电子纳米光子学、量子光学、光子时间晶体等。</span>
 
+<span class='anchor' id='educations'></span>
+
+# 📖 <span class="lang-en">Educations</span><span class="lang-zh">教育经历</span>
+
+- <span class="lang-en">*2023–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.</span><span class="lang-zh">*2023–至今*<span style="margin-left: 2em;"></span><strong>本科生</strong>，物理学专业，北京大学物理学院。</span>
+
+- <span class="lang-en">*2024–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.</span><span class="lang-zh">*2024–至今*<span style="margin-left: 2em;"></span><strong>本科生</strong>，经济学双学位项目，北京大学国家发展研究院。</span>
+
+- *2020–2023*<span style="margin-left: 2em;"></span><span class="lang-en"><strong>Senior high school student</strong>, NO.1 Middle School Affiliated to Central China Normal University.</span><span class="lang-zh"><strong>高中生</strong>，华中师范大学第一附属中学。</span>
+
 <span class='anchor' id='publications'></span>
 
 # 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文发表</span>
@@ -66,16 +76,6 @@ Coherent Control of Three-Level System Using Shaped Free Electrons.
 - *2021–2022*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.</span><span class="lang-zh">第三十八届全国中学生物理竞赛复赛湖北赛区一等奖。</span>
 
 - *2020–2021*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.</span><span class="lang-zh">第三十七届全国中学生物理竞赛复赛湖北赛区二等奖。</span>
-
-<span class='anchor' id='educations'></span>
-
-# 📖 <span class="lang-en">Educations</span><span class="lang-zh">教育经历</span>
-
-- <span class="lang-en">*2023–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.</span><span class="lang-zh">*2023–至今*<span style="margin-left: 2em;"></span><strong>本科生</strong>，物理学专业，北京大学物理学院。</span>
-
-- <span class="lang-en">*2024–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Major in Physics, School of Physics, Peking University.</span><span class="lang-zh">*2024–至今*<span style="margin-left: 2em;"></span><strong>本科生</strong>，经济学双学位项目，北京大学国家发展研究院。</span>
-
-- *2020–2023*<span style="margin-left: 2em;"></span><span class="lang-en"><strong>Senior high school student</strong>, NO.1 Middle School Affiliated to Central China Normal University.</span><span class="lang-zh"><strong>高中生</strong>，华中师范大学第一附属中学。</span>
 
 <span class='anchor' id='professional-activities'></span>
 
