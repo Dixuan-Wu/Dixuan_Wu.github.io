@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dixuan Wu (吴狄轩)"
   avatar           : "images/profile.png"
-  bio              : '<span class="lang-en">Undergraduate Student<br>School of Physics<br>Peking University</span><span class="lang-zh">本科生<br>北京大学物理学院<br>北京大学</span>'
+  bio              : '<span class="lang-en">Undergraduate Student<br>School of Physics<br>Peking University</span><span class="lang-zh">本科生<br>北京大学物理学院</span>'
   location         : '<span class="lang-en">Beijing, China</span><span class="lang-zh">中国，北京</span>'
   employer         :
   pubmed           : 
