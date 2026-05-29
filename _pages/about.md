@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span class="lang-en">My research interest includes free electron quantum nanophotonics, quantum optics, photonic time crystal etc.</span><span class="lang-zh">我的研究兴趣包括自由电子量子纳米光子学、量子光学、光子时间晶体等。</span>
+<span class="lang-en">My research interest includes free electron nanophotonics, quantum optics, photonic time crystal etc.</span><span class="lang-zh">我的研究兴趣包括自由电子纳米光子学、量子光学、光子时间晶体等。</span>
 
 <span class='anchor' id='publications'></span>
 
