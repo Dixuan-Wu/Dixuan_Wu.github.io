@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: '<span class="lang-en">Publications</span><span class="lang-zh">论文发表</span>'
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: '<span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖励</span>'
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: '<span class="lang-en">Educations</span><span class="lang-zh">教育经历</span>'
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: '<span class="lang-en">Professional Activities</span><span class="lang-zh">学术活动</span>'
-    url: "/#-professional-activities"
+    url: "/#professional-activities"
