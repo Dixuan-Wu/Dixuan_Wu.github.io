@@ -27,7 +27,7 @@ redirect_from:
 
 - <span class="lang-en">*2024–now*<span style="margin-left: 2.2em;"></span><strong>Undergraduate</strong>, Dual Degree Program in Economics, [National School of Development, Peking University](https://nsd.pku.edu.cn/).</span><span class="lang-zh">*2024–至今*<span style="margin-left: 2em;"></span><strong>本科生</strong>，经济学双学位项目，[北京大学国家发展研究院](https://nsd.pku.edu.cn/)。</span>
 
-- *2020–2023*<span style="margin-left: 2em;"></span><span class="lang-en"><strong>Senior high school student</strong>, NO.1 Middle School Affiliated to Central China Normal University.</span><span class="lang-zh"><strong>高中生</strong>，[华中师范大学第一附属中学](https://www.hzsdyfz.com.cn/)。</span>
+- *2020–2023*<span style="margin-left: 2em;"></span><span class="lang-en"><strong>Senior high school student</strong>, [NO.1 Middle School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/).</span><span class="lang-zh"><strong>高中生</strong>，[华中师范大学第一附属中学](https://www.hzsdyfz.com.cn/)。</span>
 
 <span class='anchor' id='publications'></span>
 
