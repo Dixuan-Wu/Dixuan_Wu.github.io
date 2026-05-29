@@ -35,7 +35,7 @@ redirect_from:
 
   <div class='paper-box-text' markdown="1">
 
-<span class="lang-en">Coherent Control of Three-Level System Using Shaped Free Electrons.</span><span class="lang-zh">利用整形自由电子相干控制三能级系统。</span>
+<span class="lang-en">Coherent Control of Three-Level System Using Shaped Free Electrons.</span><span class="lang-zh">Coherent Control of Three-Level System Using Shaped Free Electrons</span>
 
 <u><strong>Dixuan Wu</strong></u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
 
