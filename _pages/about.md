@@ -35,7 +35,7 @@ redirect_from:
 
   <div class='paper-box-text' markdown="1">
 
-<span class="lang-en">Coherent Control of Three-Level System Using Shaped Free Electrons.</span><span class="lang-zh">Coherent Control of Three-Level System Using Shaped Free Electrons</span>
+Coherent Control of Three-Level System Using Shaped Free Electrons.
 
 <u><strong>Dixuan Wu</strong></u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
 
@@ -44,12 +44,11 @@ redirect_from:
   </div>
 </div>
 
-- <span class="lang-en">Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh">Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>，2026（审稿中）。</span>
+- Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh"><i>Physical Review Letters</i>，2026（审稿中）。</span>
 
-- <span class="lang-en">Quantum Simulation of Tunable Synthetic Lattices with Free Electrons. Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh">Quantum Simulation of Tunable Synthetic Lattices with Free Electrons. Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>，2026（审稿中）。</span>
+- Quantum Simulation of Tunable Synthetic Lattices with Free Electrons. Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh"><i>Physical Review Letters</i>，2026（审稿中）。</span>
 
-- <span class="lang-en">Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh">Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Letters</i>，2026（审稿中）。</span>
-
+- Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh"><i>Physical Review Letters</i>，2026（审稿中）。</span>
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖励</span>
