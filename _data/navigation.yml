@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: '<span class="lang-en">About Me</span><span class="lang-zh">关于我</span>'
     url: "/#about-me"
 
-  - title: "Publications"
+  - title: '<span class="lang-en">Publications</span><span class="lang-zh">论文发表</span>'
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: '<span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖励</span>'
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: '<span class="lang-en">Educations</span><span class="lang-zh">教育经历</span>'
     url: "/#-educations"
 
-  - title: "Professional Activities"
+  - title: '<span class="lang-en">Professional Activities</span><span class="lang-zh">学术活动</span>'
     url: "/#-professional-activities"
