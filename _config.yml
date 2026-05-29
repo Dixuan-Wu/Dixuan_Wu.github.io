@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dixuan Wu (吴狄轩)"
+  name             : '<span class="lang-en">Dixuan Wu (吴狄轩)</span><span class="lang-zh">吴狄轩</span>'
   avatar           : "images/profile.png"
-  bio              : "Undergraduate Student<br>School of Physics<br>Peking University"
-  location         : "Beijing, China"
+  bio              : '<span class="lang-en">Undergraduate Student<br>School of Physics<br>Peking University</span><span class="lang-zh">本科生<br>北京大学物理学院<br>北京大学</span>'
+  location         : '<span class="lang-en">Beijing, China</span><span class="lang-zh">中国，北京</span>'
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aP1wfTkAAAAJ"
